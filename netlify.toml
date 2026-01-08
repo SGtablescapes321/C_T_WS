@@ -1,0 +1,10 @@
+[build]
+  publish = "."
+  
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[context.production]
+  environment = { NETLIFY_FORM_ENABLED = "true" }
