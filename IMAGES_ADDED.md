@@ -2,7 +2,7 @@
 
 ## ✨ What's Been Done
 
-Your website has been **significantly enhanced with professional, curated images** from the internet. Here's exactly what changed:
+Your website has been **significantly enhanced with professional, organized images** from the internet. Here's exactly what changed:
 
 ---
 

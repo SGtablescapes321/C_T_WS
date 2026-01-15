@@ -2,7 +2,7 @@
 
 ## What's Been Updated
 
-Your website now features **beautiful, professionally curated images** from Unsplash that showcase elegant table decor. Here's what's included:
+Your website now features **beautiful, professionally organized images** from Unsplash that showcase elegant table decor. Here's what's included:
 
 ---
 
@@ -113,7 +113,7 @@ Your website now features **beautiful, professionally curated images** from Unsp
 Gallery Images:    6 high-quality photos
 Service Images:    2 professional photos
 Hero Background:   1 elegant image
-Total Images:      9 beautifully curated photos
+Total Images:      9 beautifully organized photos
 
 Loading Strategy:  Lazy loading on scroll
 Format:            Optimized JPEG via Unsplash
@@ -154,7 +154,7 @@ Images look beautiful on:
 
 When you share this with your client, you can say:
 
-> "Your website now features beautiful, professionally curated images that showcase various table decor styles. When you're ready, we can replace these sample images with your own high-quality photography. The website is fully set up and ready to showcase your work!"
+> "Your website now features beautiful, professionally organized images that showcase various table decor styles. When you're ready, we can replace these sample images with your own high-quality photography. The website is fully set up and ready to showcase your work!"
 
 ---
 
@@ -270,7 +270,7 @@ When you share this with your client, you can say:
 
 - ✅ Hero section with background image
 - ✅ Service cards with lifestyle photos
-- ✅ Full gallery with 6 curated images
+- ✅ Full gallery with 6 organized images
 - ✅ Lazy loading for performance
 - ✅ Hover animations and transitions
 - ✅ Mobile-responsive design

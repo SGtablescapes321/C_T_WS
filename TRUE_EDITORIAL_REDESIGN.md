@@ -50,7 +50,7 @@
 **Room 3: Vision** - Gallery exhibition (large art piece with wall text)  
 **Room 4: Featured Experience** - Showroom with angled display  
 **Room 5: Services** - Modern boutique (magazine-style product cards)  
-**Room 6: Collection** - Curated gallery wall (masonry layout)  
+**Room 6: Collection** - organized gallery wall (masonry layout)  
 **Room 7: Connect** - Intimate consultation space (asymmetric, personal)
 
 ### "Layered, tactile, dimensional"
@@ -146,7 +146,7 @@
 - Intro floats left
 - Form centered separately
 - NOT two-column grid
-- Feels curated, not templated
+- Feels organized, not templated
 
 ---
 
@@ -173,7 +173,7 @@
 | Refined but approachable | ✅ Elegant typography with warm, inviting colors |
 | Soft muted tones + color pops | ✅ Aged ivory base, teal/marigold/dusty rose accents |
 | Nostalgic with modern edge | ✅ Vintage aesthetic + modern web techniques |
-| Heirloom, delicate, original | ✅ Unique layouts, curated feel, editorial approach |
+| Heirloom, delicate, original | ✅ Unique layouts, organized feel, editorial approach |
 | Movement and flow (NOT blocks) | ✅ Asymmetric, overlapping, diagonal elements |
 | Cohesive, not repetitive | ✅ Same palette/typography, different layouts |
 | Feels like art magazine | ✅ Editorial typography, section numbers, white space |
@@ -227,7 +227,7 @@
 2. **Reading Room** (Statement) - Intimate, text-focused, scholarly
 3. **Gallery** (Vision) - Art-forward, contemplative
 4. **Feature Showroom** (Uranium Glow) - Bold, angled, modern
-5. **Boutique** (Services) - Curated, magazine-style
+5. **Boutique** (Services) - organized, magazine-style
 6. **Collection Wall** (Gallery) - Organic, collected pieces
 7. **Consultation Space** (Contact) - Personal, approachable
 
@@ -247,7 +247,7 @@ This required:
 - ✅ Custom layout per section
 - ✅ Intentional asymmetry
 - ✅ Magazine-editorial thinking
-- ✅ "Curated gallery" approach
+- ✅ "organized gallery" approach
 
 ---
 
@@ -259,7 +259,7 @@ Stacked sections | Overlapping, flowing
 Uniform grid | Varied, asymmetric
 Centered content | Floating, offset
 Template cards | Unique per section
-Stock photography | Curated, filtered
+Stock photography | organized, filtered
 Web-safe | Magazine-editorial
 Predictable | Intentionally varied
 Coordinated | Collected

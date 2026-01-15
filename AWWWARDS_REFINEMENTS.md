@@ -25,7 +25,7 @@
 - Default: Soft charcoal dot (subtle presence)
 - Hover: Teal accent circle (intentional color pop)
 - SVG-based for crisp rendering
-- Result: High-end, curated browsing experience
+- Result: High-end, organized browsing experience
 
 ### 🌊 Micro-Interactions & Movement
 
@@ -94,7 +94,7 @@
 - Marigold in: accent lines, quality mark
 - Dusty rose in: section numbers, dividers
 - **NOT** in background blocks or patterns
-- Result: Color feels curated, intentional, organic
+- Result: Color feels organized, intentional, organic
 
 **GRADIENT SOPHISTICATION**
 - Nav underline: teal → moss green
@@ -160,7 +160,7 @@
 
 ### Content (20 points)
 - ✅ Meaningful copy
-- ✅ Curated imagery
+- ✅ organized imagery
 - ✅ Intentional pacing
 - ✅ Story-driven structure
 
@@ -204,7 +204,7 @@ This design doesn't scream for attention. It:
 - Rewards exploration through reveals
 - Invites touch through dimensionality
 
-**It feels collected, curated, intentional.**
+**It feels collected, organized, intentional.**
 
 Like walking through a gallery where each room has its own character, but you're always in the same house.
 

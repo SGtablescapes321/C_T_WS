@@ -309,7 +309,7 @@ This redesign transforms your website from a clean, modern interface into an **i
 
 Every color, font choice, animation, and layout decision aligns with the brief's language: **softened, timeworn, muted, faded, heirloom, patinated, collected, storied, grounded, refined.**
 
-The website now feels like **flipping through an art magazine** or **walking through a curated vintage collection** - each section revealing something new, beautiful, and quietly substantial.
+The website now feels like **flipping through an art magazine** or **walking through a organized vintage collection** - each section revealing something new, beautiful, and quietly substantial.
 
 ---
 
