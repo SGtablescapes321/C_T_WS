@@ -263,11 +263,8 @@
                 <div class="contact-item">
                     <span class="contact-label">Socials</span>
                     <div class="social-links" style="display: flex; gap: 1rem;">
-                        <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank" style="color: inherit; text-decoration: none;">
-                            <i class="fab fa-instagram"></i> Instagram
-                        </a>
-                        <a href="https://www.facebook.com/YOUR_FACEBOOK" target="_blank" style="color: inherit; text-decoration: none;">
-                            <i class="fab fa-facebook"></i> Facebook
+                        <a href="https://www.instagram.com/chantrierrigardens/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
+                            <i class="fab fa-instagram"></i> @chantrierrigardens
                         </a>
                     </div>
                 </div>
@@ -437,9 +434,33 @@
     <footer class="footer-minimal">
         <div class="footer-content">
             <p class="footer-tagline">Because you have enough on your plate — let us bring ours to the table</p>
+            <div class="footer-social">
+                <a href="https://www.instagram.com/chantrierrigardens/" target="_blank" rel="noopener noreferrer" aria-label="Follow us on Instagram">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </div>
             <p class="footer-copy">&copy; 2025 Chantrieri. All rights reserved.</p>
         </div>
     </footer>
+
+    <!-- Chat Widget -->
+    <div id="chatWidget" class="chat-widget">
+        <button id="chatToggle" class="chat-toggle" aria-label="Open chat">
+            <i class="fas fa-comment-dots chat-icon-open"></i>
+            <i class="fas fa-times chat-icon-close"></i>
+        </button>
+        <div id="chatWindow" class="chat-window">
+            <div class="chat-header">
+                <span class="chat-header-title">Chantrieri</span>
+                <button id="chatClose" class="chat-close" aria-label="Close chat">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="chat-body" id="chatBody">
+                <!-- Messages will be inserted here by JS -->
+            </div>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
