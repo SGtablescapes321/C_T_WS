@@ -456,13 +456,22 @@ function initChatWidget() {
         }
     };
 
-    chatToggle.addEventListener('click', toggleChat);
+    chatToggle.addEventListener('click', (e) => {
+        e.stopPropagation();
+        toggleChat();
+    });
 
     if (chatClose) {
-        chatClose.addEventListener('click', () => {
+        chatClose.addEventListener('click', (e) => {
+            e.stopPropagation();
             chatWidget.classList.remove('is-open');
         });
     }
+
+    // Prevent clicks inside chat body from closing
+    chatBody.addEventListener('click', (e) => {
+        e.stopPropagation();
+    });
 
     // Close chat when clicking outside
     document.addEventListener('click', (e) => {
