@@ -489,8 +489,28 @@ function initChatWidget() {
     });
 }
 
+// Splash Screen
+function initSplashScreen() {
+    const splash = document.getElementById('splashScreen');
+    if (!splash) return;
+
+    document.body.classList.add('splash-active');
+
+    // Total animation runs ~2.8s, hold briefly, then fade out
+    setTimeout(() => {
+        splash.classList.add('fade-out');
+        document.body.classList.remove('splash-active');
+    }, 3800);
+
+    // Remove from DOM after fade transition
+    setTimeout(() => {
+        splash.remove();
+    }, 4700);
+}
+
 // Initialize all functions
 document.addEventListener('DOMContentLoaded', () => {
+    initSplashScreen();
     addRevealClasses();
     initScrollReveal();
     initSmoothScroll();
