@@ -271,6 +271,46 @@
         <div class="form-editorial-wrap">
             <h3>Event Questionnaire</h3>
 
+            <!-- TEMPORARY: Google Form embed (replaces the two site forms below) -->
+            <div class="gform-block">
+                <p class="gform-prompt">Please fill this form</p>
+                <p class="gform-intro">Share your event details with us and we'll be in touch within 24 hours.</p>
+
+                <div class="gform-embed">
+                    <iframe
+                        src="https://docs.google.com/forms/d/e/1FAIpQLSf-x7Oqk-4CErzQo8Lhz2sMcGBqBR5ProZZACghtjFpIOBVbA/viewform?embedded=true"
+                        title="Chantrieri event questionnaire"
+                        loading="lazy"
+                        frameborder="0"
+                        marginheight="0"
+                        marginwidth="0">Loading the form&hellip;</iframe>
+                </div>
+
+                <p class="form-footer">
+                    Having trouble with the form?
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-x7Oqk-4CErzQo8Lhz2sMcGBqBR5ProZZACghtjFpIOBVbA/viewform" target="_blank" rel="noopener">Open it in a new tab</a>
+                    or email us at <a href="mailto:s.g.tablescapes@gmail.com">s.g.tablescapes@gmail.com</a>.
+                </p>
+            </div>
+
+            <!-- ==========================================================
+                 TEMPORARILY DISABLED. ORIGINAL SITE FORMS (Netlify Forms)
+                 ==========================================================
+                 The tab toggle plus the "Detailed Questionnaire" and
+                 "Quick Form" panels are preserved verbatim in the comment
+                 below while the Google Form above is in use.
+
+                 TO REVERT:
+                   1. Delete the .gform-block section above (and, if you
+                      want, the .gform-* rules in styles.css marked
+                      "TEMPORARY GOOGLE FORM EMBED").
+                   2. Delete the opening comment marker directly below
+                      this banner and the closing marker that follows the
+                      end of the Quick Form panel.
+                   No changes to script.js are needed; the toggle logic is
+                   still present and reactivates on its own.
+                 ========================================================== -->
+            <!--
             <div class="form-toggle" role="tablist" aria-label="Select a form">
                 <button
                     type="button"
@@ -424,6 +464,8 @@
                     <p class="form-footer">If you prefer, we can follow up with the full questionnaire</p>
                 </form>
             </div>
+            -->
+            <!-- End of temporarily disabled original site forms -->
         </div>
     </section>
 
