@@ -1462,6 +1462,13 @@ p {
     color: var(--sapphire);
 }
 
+.contact-note {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--antique-brown);
+    opacity: 0.8;
+}
+
 .form-editorial-wrap {
     max-width: 1000px;
     margin: 0 auto;
@@ -1870,6 +1877,28 @@ p {
 .footer-copy {
     font-size: 0.9rem;
     color: rgba(237,232,220,0.6);
+}
+
+.footer-contact {
+    font-size: 0.95rem;
+    color: rgba(237,232,220,0.8);
+    margin-bottom: 1rem;
+    line-height: 1.8;
+}
+
+.footer-contact a {
+    color: var(--parchment);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(237,232,220,0.3);
+    overflow-wrap: anywhere;
+}
+
+.footer-contact a:hover {
+    color: var(--marigold);
+}
+
+.footer-contact span {
+    margin: 0 0.5rem;
 }
 
 /* =============================================

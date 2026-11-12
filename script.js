@@ -407,9 +407,9 @@ function initChatWidget() {
         // Small delay for natural feel
         setTimeout(() => {
             if (option.action === 'email') {
-                addMessage("Great! I'll open your email app so you can reach us directly.");
+                addMessage("Great! I'll open your email app so you can reach us at s.g.tablescapes@gmail.com. You can also text us at 817-615-6261 (text only, please, no calls).");
                 setTimeout(() => {
-                    window.location.href = 'mailto:s.gtablescapes@gmail.com';
+                    window.location.href = 'mailto:s.g.tablescapes@gmail.com';
                     showConversation('start');
                 }, 1000);
             } else if (option.action === 'scrollTo') {
